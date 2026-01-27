@@ -21,7 +21,7 @@ Choosing the right GSoC organizations, writing strong proposals, and understandi
 Python, Data Analysis, ML learning paths, DSA prep, and getting started with open source.
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/chinmayykashyap.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chinmayykashyap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chinmay-kashyap-216108307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wrkchinmay@gmail.com) 
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/chinmayykashyap.bsky.social) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/chinmayykashyap) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chinmay-kashyap-216108307/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wrkchinmay@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
