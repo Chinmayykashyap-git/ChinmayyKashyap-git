@@ -39,8 +39,6 @@ Python, Data Analysis, ML learning paths, DSA prep, and getting started with ope
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Chinmayykashyap-git&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Chinmayykashyap-git&limit=5&theme=darcula&combine_all_yearly_contributions=true)
